@@ -41,7 +41,7 @@
 	"credentials": {
 		"gmailAccount": {
 			"email": "",
-			"clientId": "",
+			"clientId": "tes-123",
 			"clientSecret": "",
 			"refreshToken": "",
 			"apiKey": ""
